@@ -23,6 +23,6 @@ How to use:
   2. Run the file in your terminal. `python imageVariation.py -i "path/to/image.png" -n "NameOfNewFile"
 
 
-Please refer to OpenAI documentation for further instructions on how to make these API calls. ``https://beta.openai.com/docs/api-reference/introduction``
+Please refer to OpenAI documentation for further instructions on how to make these API calls. https://beta.openai.com/docs/api-reference/introduction
   
   
