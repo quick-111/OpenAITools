@@ -7,11 +7,13 @@ How to use chat.py:
   2. Run the file in your terminal `python chat.py path/to/input.txt`
  
  
- The file imageGenerator.py
+ ## imageGenerator.py
+ The file imageGenerator.py takes a prompt as an input and outputs an image generated based on the prompt.
   1. Insert your own Api Key from the OpenAi API. *This can be found on line 21 `openai.api_key = "<insert-api-key>"`*
   2. Run the file in your terminal. `python imageGenerator.py -p "Type prompt here" -n "NameOfNewFile"`
 
-The file imageVariation.py
+## imageVariation.py
+The file imageVariation.py takes a square image as an input and outputs a similar variation of the image.
   1. Insert your own Api Key from the OpenAi API. *This can be found on line 16 `openai.api_key = "<insert-api-key>"`*
   2. Run the file in your terminal. `python imageVariation.py -i "path/to/image.png" -n "NameOfNewFile"
   
