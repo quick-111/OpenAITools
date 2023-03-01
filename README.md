@@ -1,6 +1,8 @@
 # OpenAITools
 In this repository are few tools using OpenAI's API to automate study-guides and generate images.
 
+## chat.py
+
 The file chat.py takes in a text file as input, reads the file line by line (excluding empty lines), and returns an output.txt file that has both the questions and answers with some formatting. It also uses multiThreading to speed up the process.
 
 How to use:
